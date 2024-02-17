@@ -16,6 +16,7 @@ The research team uses Octoparse, a powerful web scraping tool, to collect data 
 The research team obtained the Fintech score for 27 listed banks in Vietnam in the period 2016-2022. The Fintech score reflects the level of bank’s approach and interaction with the fintech field, helping to evaluate the level of fintech development of the bank. The higher the Fintech score, the more ready the bank is to adopt technology. The Fintech score is also used to test the hypothesis about the positive impact of Fintech on Green Finance, a concept related to mobilizing and allocating capital for economic activities beneficial to the environment and minimizing the impact of climate change.
 
 Examble:
+
 ![image](https://github.com/Neyung/NNCT-2024/assets/120383829/ab08d667-eb65-47bc-8623-87954b651343)
 
 The above results indicate that Vietcombank has the highest Fintech Score, showcasing the most advanced level of financial technology utilization among the evaluated banks. Agribank and BIDV also have relatively high Fintech Scores, while ACB has a lower Fintech Score compared to the other banks.
