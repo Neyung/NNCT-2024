@@ -23,6 +23,9 @@ The above results indicate that Vietcombank has the highest Fintech Score, showc
 
 # Group of authors
 Diep, Phan Huynh Bao
+
 Loc, Nguyen Dang Dinh
+
 Nguyen, Vo Minh
+
 Thien, Phung Huu
