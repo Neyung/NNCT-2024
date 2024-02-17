@@ -20,3 +20,9 @@ Examble:
 ![image](https://github.com/Neyung/NNCT-2024/assets/120383829/ab08d667-eb65-47bc-8623-87954b651343)
 
 The above results indicate that Vietcombank has the highest Fintech Score, showcasing the most advanced level of financial technology utilization among the evaluated banks. Agribank and BIDV also have relatively high Fintech Scores, while ACB has a lower Fintech Score compared to the other banks.
+
+# Group of authors
+Diep, Phan Huynh Bao
+Loc, Nguyen Dang Dinh
+Nguyen, Vo Minh
+Thien, Phung Huu
